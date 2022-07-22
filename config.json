@@ -1,0 +1,271 @@
+{
+  "Config": [
+    {
+      "interval": 2,
+      "backup": "ironsource",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": true,
+      "maps": true,
+      "texture": true,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294xxx",
+      "admob_banner": "ca-app-pub-3238671544298307/5709379290",
+      "admob_inter": "ca-app-pub-3238671544298307/4766998568",
+      "admob_native": "ca-app-pub-3238671544298307/5764369551",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "15b747b3d",
+      "ironsource_inter": "15b747b3d",
+
+      "fan_banner":"4312645228767527_4312648548767195",
+      "fan_inter":"4312645228767527_4312654575433259",
+      "fan_native":"4312645228767527_4312653795433337"
+      
+    }
+  ],
+  "Addon": [
+    {
+        "name": "Better Skyblock - The Map v1.5 (The 1.17 Update!)",
+        "role": "Welcome to the most challenging Skyblock map you'll experience. You start off on an island with only a chest, grass block and a bedrock block.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Better/4/4.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Better/4/Better mobs.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Better/4/3.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Better/4/1.png"
+    },
+    {
+        "name": "Better Drowned Loot",
+        "role": "Tired of looting tridents from drowned zombies but only drops often?",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Better/7/3.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Better/7/Better Drowned Loot.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Better/7/2.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Better/7/1.jpeg"
+    },
+    {
+        "name": "Better Glass!",
+        "role": "Are you tired of the same old glass textures? Do you want glass blocks and panes that look cleaner, borderless and feel connected? This is the texture pack you need!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Better/3/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Better/3/Better Glass Addon.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Better/3/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Better/3/1.png"
+    }
+  ],
+  "Map": [
+    {
+        "name": "Better Skyblock - The Map v1.5 (The 1.17 Update!)",
+        "role": "Welcome to the most challenging Skyblock map you'll experience. You start off on an island with only a chest, grass block and a bedrock block.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Better/5/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Better/5/6lBetter_Skyblock_f5PPf.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Better/5/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Better/5/1.png"
+    }
+  ],
+  "Texture": [
+    {
+        "name": "Better Water",
+        "role": "Better Water is a mini texture that changes the water to a best more transparent and clear, I hope you enjoy it :)",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Better/6/3.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Better/6/Better Water.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Better/6/2.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Better/6/1.jpeg"
+    },
+    {
+        "name": "Piglingobrr+BetterNetherite",
+        "role": "retextured as Pigmen mobs to look like bipedal classic pig mobs. This pack aims to make the pig mobs visioned as villagers before but are now textured to be in the nether. This pack also includes better netherite related equipment textures for MCPE.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Better/8/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Better/8/piglingobrrbetternetherite.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Better/8/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Better/8/1.png"
+    },
+    {
+        "name": "Better Bricks - HD Texture Pack",
+        "role": "Better Bricks is an HD texture pack that changes most all of the brick blocks. It improves brick, stonebrick, sandstone, quartz brick, and much more. This pack updates blocks to a 64x64 resolution which makes them much more clean and realistic. Enjoy!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Better/9/4.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Better/9/Better-Bricks-V.1.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Better/9/3.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Better/9/2.png"
+    },
+    {
+        "name": "Better Font",
+        "role": "This is my first upload. All this does it change the font to something better on the eyes. Something a lot smoother and it works for any version of Minecraft. Please use this pack as you wish.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Better/10/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Better/10/Better-Fonts_1585858582.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Better/10/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Better/10/1.png"
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/ab2HTwmJCMeiHRsWL046pl2mJ7M7E_7wzdARv4j3ZLOAacOGV-qCnRJ582WOMt9BWMUJ8VacQAWIZVHCpApbHQ",
+    "view_skin": "https://lh3.googleusercontent.com/4pYUIfiA2hNbcA1BHeLZOeBX2flsIUdaeuXM7U6OwvfKfF3uhmrGSnN8mx4mxepbrVpHPzPlxQ-do5YYBlcRxsU"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/u15JEuHMCZYrnVyaCp2LwWBLRIpA8A0EwfZ48S7nk1lmGG_7z0xFGZDPCOyWse9ArN4MRyQ0OpwKMYWYpKiKpw",
+    "view_skin": "https://lh3.googleusercontent.com/gDXBTnZ1spKdNlcC4WS3xJsP0b5G2WhFoowAF4SO8boxuFyAE1oGxC07DLp_Pt-vHJl-zuLDGBcnjMQxK2-x7pE"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/8oMSEiYxYQRzqpQBEZgqLsQRqaiuILnBvMBSyrcIvMUmf4qR6uKUqEQ2-eS0x4dIZfKZf365UiEaH3viFd60",
+    "view_skin": "https://lh3.googleusercontent.com/Mqm0LC4kVw_nCuxy7c3z11xcvKeSCiDO39626-lqGvTl4uJDuOex9qPsf68j_usKL7KBR3QVO4N7XFpOxBdDEQ8"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/d2Mfun9zIz6nLKvRD3R-KvUU8OTqzPS7S-s0QT389qP6EWBrq88YlL7TjFrq3fY__upqMbu4Vyr13T-MUheUnwD7gbwap4kljHE",
+    "view_skin": "https://lh3.googleusercontent.com/RluIIMk7gJVmqZG3AW37jPIPQC6i-yRzdldYkdLWguqG1CC_sRvGIDZHjrDBNeU30DM63v4ZMc1_dXMBeoDag3UKHZQzJBkhZ89C"
+  },
+  {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/y6PswbovJbM6OtlCPdtivJDnSiG2980zh7vCX740WYJfGCFXQaqxKzeRHAiq0K8OVApczSSqFbg_JV9TnHiExjKvfAuTdpmaVBPt",
+    "view_skin": "https://lh3.googleusercontent.com/T_sFHUFkudmqpWCt61yUzzLblPbbmJ7sumjbg-EnKnAT8C3HdSjBT7njih8wIpsGaKJsy13pLs4QaXiuEg060z8IUo_9mWsAzrI"
+  },
+  {
+    "id": 6,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/3MMSWxpAtdAc-XRKxfx69xaPyVwMr66Qq-n9Eou6vQtZRrKVXMu8BTGGP14ojsSg3mhROQPPFXqaFAKgnUp1G8hiQSXDxsWKq9s",
+    "view_skin": "https://lh3.googleusercontent.com/EX5K2vseNvqNtZavR0_wtBoO1JkX2Ia0xMZDwWiRh0vtqN2DHdEkWqzWdz6Cg2Nx4L8b7nFLmHxn5xjNS177hZgbIcRNt6F6ky8"
+  },
+  {
+    "id": 7,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/UsOFKVS1Mf5fjjLJVQFGwLPcd2vjZLogB-7AOHoK1HBcntuhQyPIMYcWTr70c1ttYP9p-XAXvL16N2HsNSBKXQ",
+    "view_skin": "https://lh3.googleusercontent.com/92TW5nuLj-mGNspFYs4gbs52p8PHyWD2LcO177tL6-N1HZn38efzOak0OH_oWw92_49tc6BZV8TIAz3nEfoX"
+  },
+  {
+    "id": 8,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/92tU65OND29wOOsRAn8_0jGdKQ7MrVJar0jOZhW7MSaeCGD65WsuG2frYUMcUYqei3iUSujTdeHL8EmDvHq4lQ",
+    "view_skin": "https://lh3.googleusercontent.com/8cFagQJQXjU24nl-QrQdFyFDx1VQmF0wGFvcxiHlflUeBWiGkJjSHX8aTkMEV0I7A6hZ7y2nxIvPSp-7Ku83PBxfDdoyL9mGXeD4"
+  },
+  {
+    "id": 9,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/M1QKb2Ee9t9ZIslFbPPvr0yn-yJAxXEulsHbcYw__5V7KrbRDzLc_U-pe2UWdXrccHOXAQJRUiUepfquO7-oOmn8TIGGd_migwIF",
+    "view_skin": "https://lh3.googleusercontent.com/dNS_ISnsf4jx2w1r1_4VUK4Eg9IS6sHt0jBw06Co47y2v097vIEl8DAQ0LSVikHG9Iq7ABLvWqVgaj9StAFMqnOeHNTVh80MXkc"
+  },
+  {
+    "id": 10,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/w77N_alYuxs_q7RHhWEioSWfH_nzWQgFZmVktINPw8fRESaJMnI3QP8CceffCOSB3JGnvicpyrNxrRJJsTbKi_7JSmISXyqsiis",
+    "view_skin": "https://lh3.googleusercontent.com/Kr3nJQAzUw2ftkCuuPT4jJ1dzNCW1LpqnLgn8DZetXp1iR19s995iuSs5ochUI63tRosz1PMwwWEqpH24IyvzZ-lVIeS1qbkfQ"
+  },
+  {
+    "id": 11,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/9y0oaifkzgqEDjPwgkvFTv0vVZbr8IwU0WwVb9oSC1caFRGpH5hKFSuF2Xj2JN24rQGcxPwqkjTlJUQSF4Hr",
+    "view_skin": "https://lh3.googleusercontent.com/y4FJOYudZsMUdw0CFHx3SlGGHEo3zL3VQb6Ff4njnsmsgfF0sbiK75l0seLlggTVwh1oPBA1w1XHCZ7bX9P8ew"
+  },
+  {
+    "id": 12,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/pGo0-yDIO8IJ10fYpOXg2VWnk-BLFBaEFrhSABV3OuJe-88ip0jIh3FdyiZ1gtbqbYVRTYWAMNNBbcsdwn0MyQ",
+    "view_skin": "https://lh3.googleusercontent.com/FKOfBWtbc7hPxd7L57DDnK5LZ2flAO7v0ZKjlsfYsVL_aYPp_gzbSK6QY-WQtZkTuKecVeG6Dz3d1oQSNDTBghQ3ezbsWrq_0OE"
+  },
+  {
+    "id": 13,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/cf6bTNs9gENM0neQGb6g_NClmaRzDS8Chw5mIdzcn_ijES-NS555_eAPST4QDHLgUMl0ZiRATAaU73nJJD2pSr8",
+    "view_skin": "https://lh3.googleusercontent.com/oH7evK16_WRGcVZ9iZPCrqlS2_KGzLPq7H3gE-UseZtLh3EFZWFglnQvS607GBB33okW0usHBmSkij-ph5ic"
+  },
+  {
+    "id": 14,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/zdYuIR7iNaQ4VUTxXFlpzCjOobTs_4KjCcvikOb2wrCFnALJruiFU9eoXLH1mP4ypjo9h3g6cM6eyZMJiIVcT44",
+    "view_skin": "https://lh3.googleusercontent.com/dnvxpYfY7OuvsexQRj5B57U2BfZmiG81EOwQFY5xoEKHzg0AJDXHX8N4JV2JDGUY7d9BKkFu-oURUm-2kD-g"
+  },
+  {
+    "id": 15,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/gO1Vx0A2JY5HeII_r7SXs99IS8wmniwno94xRz0yaBiiHFOEv9Wu86B2zvYyQHDIwmGhNJBNmqk9S_KLPKTZ2SKzeEtBC7oPock",
+    "view_skin": "https://lh3.googleusercontent.com/8cdqE2GQtOM4gwSTaKkfyFqgZIuXH6wCxGH8zSQyRm04t_igGvLYD6RJg9efFxj0VNiPsorI89C_Ae-o6-AwWg8tC9qr0pyB9A"
+  },
+  {
+    "id": 16,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/9qT-FTun4-vwHrY8zWoOB2T267I_cr8wwkXmPstP2hCpbanQsp48-B8FV-JSUK-YiO7G7GtQwKejbYfJojzKAjV8eJLC7sMC_ZE",
+    "view_skin": "https://lh3.googleusercontent.com/YighhTszb_txzofhq1ReSSHFcwoVLy9Un-dE7MRW-faIzeKKt_z70J58P0EIG-MOKV9mDnPPUiUiry4Gt-bjkfcMCK1ahca_Y8c"
+  },
+  {
+    "id": 17,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/Aam97-c3KynhFgOMOc96WFxzZkfuoKpXjAS4Vd3lpPyiiN7l4_Ynx07FFObyNqxvYM-KSdkjSOyqjcJEgxVVMTmqs-ucyq0qfg",
+    "view_skin": "https://lh3.googleusercontent.com/Pq4XOBEVQJmnrA9HuwtZilZtqtRHQXebUHhHGDJKC774-vRNxwkYkGltZ3PRb0S_cGArsJvb6J6LA8JyC-ffJRm0UuY8Iq-A8uQ"
+  },
+  {
+    "id": 18,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/CaNPJ2dUGLlG2zv1enMjvfWkjzHqDztgNnh13KH9bqTX3wlLoUHZFx8eyHYCg6XJIuJhNuuUvQ4Yt5JHZZegpy0",
+    "view_skin": "https://lh3.googleusercontent.com/gsG8xwFTLR0TQtB_uViwYq-cDMcMCePRDwftUSZj5p2auKZMDGwc8cyxaI9lJfthrXPVmOkhuPzLUH69EBshgSza_96CqCU3SeQ"
+  },
+  {
+    "id": 19,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/ih4UyYdUb16X1bg-FPg7ilWFdad6XaxpQrJCJwIZqLMdPj59qEmpFK4Ad1IFSaJjadAgGOvXliTiXed4dnM_",
+    "view_skin": "https://lh3.googleusercontent.com/EVfZP1G8n5ucpzcHEgqwtnqpcCxoyM5Y5r5juycpwa3eol2ZBxyC3xLRyzkfO-YGH8TqWIYttPskBbopyqTqIg"
+  },
+  {
+    "id": 20,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/LSPp8k1S7aBAzM7BMEkVzSzekdBve8tVrPQYBfMRPcLyzevJCLs51f_HQG8oSmE0rZY9gmh0FDRzt7MYjBWtsA",
+    "view_skin": "https://lh3.googleusercontent.com/tpNbpXMWyhY-I-1RTajHb7Y4edvkNLPdYbY-qIN-Bg_UDMrzg2w9cP1BVA0Pyw-CLLoCW4ye6aIT98M_O9Uq51273WmRS-u4D1A"
+  },
+  {
+    "id": 21,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/HpFe8-1yCwZNIqHh1xhun8C_38-quS5yhAwEMLi83CaNLEqggmSRxbI2Ef8CTcN5HsfyQSUBKbzlCm-yCsBx",
+    "view_skin": "https://lh3.googleusercontent.com/e_UWBz3LKR4WYFlHnoRSWn08KNzYdv3DgyvyIeOf2ETXkjAtEc6avfQCGi_w9D5_dFMBlLr6si_MhnKOxnFP"
+  },
+  {
+    "id": 22,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/T5j5ae2bCyoeh7SB9socKnHUf3NMr4HBGql0JqXs1iAOd_jhGc5_yiNtlPa0dggajQwpBIa7vWedZOxY8aePwoKvtFEvmrSCcJ4",
+    "view_skin": "https://lh3.googleusercontent.com/E9zHDrq4QxYjJsh4ynWRhdlMV-5GU_G1v31x2d6xT3MALf6JXSDX4ue0Wq-ZEh11awuuxq4f8956g-8eNt8GHbJbqO3WPiqh6x4"
+  },
+  {
+    "id": 23,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/kK5_rfIa-_NXA3WMZGAdlCLhHGtE_tVDdXZR4bsf0mLeNPe_dJtKVvbXzXcy_nbwtQbXsFQhL_KxCF11GerITQ",
+    "view_skin": "https://lh3.googleusercontent.com/MlQzlG40qjHeo_bJniIvqlCHUvAZs6mz7CR76LFIUsh2D4TOrpq4gj3hlUiVLJIeWypPIjThUFOQeFus1BdFaA"
+  },
+  {
+    "id": 24,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/CaTwNfn8JeY7MljpEDXYr-8GC7TxnOIzTdaSZkIf9SERX94qLBdcJI4376_remKSk2hzRY1LQ3TCIB5yoRnGAb0iSsbamqzsjig",
+    "view_skin": "https://lh3.googleusercontent.com/QhDZpMkX_yIH0qbAYnFgLbG23awD1IUIQKfZcB4nHgiUb-SqOHd_LLgmTBdliIXaeysIQZJdT7LEN_-MbhnopI0gzxKGBoHJaA"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
